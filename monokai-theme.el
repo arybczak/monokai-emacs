@@ -126,12 +126,12 @@ Also affects 'linum-mode' background."
        (gray-d                   "#333333")
        (gray-l                   "#6b6b6b")
        ;; Adaptive colors
-       (monokai-fg               "#F8F8F2")
-       (monokai-bg               "#272822")
-       (monokai-hl-line          "#3E3D31")
-       (monokai-hl               "#49483E")
-       (monokai-emph             "#F8F8F0")
-       (monokai-comments         "#75715E")
+       (monokai-fg               "#F5F5F5")
+       (monokai-bg               "#1B1E1C")
+       (monokai-hl-line          "#2a2921")
+       (monokai-hl               "#303030")
+       (monokai-emph             "#FFFAFA")
+       (monokai-comments         "#AAAA9A")
        ;; Adaptive higher/lower contrast accented colors
        (monokai-fg-hc            "#141414")
        (monokai-fg-lc            "#171A0B")
@@ -210,7 +210,7 @@ Also affects 'linum-mode' background."
        (terminal-monokai-hl-line          "#212121")
        (terminal-monokai-hl               "#303030")
        (terminal-monokai-emph             "#FFFAFA")
-       (terminal-monokai-comments         "#8B8878")
+       (terminal-monokai-comments         "#AAAA9A")
        ;; Adaptive higher/lower contrast accented colors
        (terminal-monokai-fg-hc            "#171A0B")
        (terminal-monokai-fg-lc            "#141414")
